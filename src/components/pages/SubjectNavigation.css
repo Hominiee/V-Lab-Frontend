@@ -1,0 +1,24 @@
+.subNavContainer {
+    background-size: contain;
+    height: auto;
+    color: white;
+}
+
+.SecondSec {
+    margin: 100px 0 100px 0;
+}
+
+
+.ThirdSec {
+    margin: 100px 0 60px 0;
+
+}
+
+.LastSec {
+    padding-bottom: 60px;
+}
+
+/* .sub{
+    
+    height: 300px;
+} */
